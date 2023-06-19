@@ -1,5 +1,6 @@
 import numpy as np
 from sklearn.manifold import TSNE
+#from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import mplcursors
 import spacy
@@ -21,6 +22,10 @@ with open("hn_history.txt", "r") as f:
                 labels.append(phrase)
 
 embs = np.array(embs)
+
+#pca = PCA(n_components=30)
+#embs = pca.fit_transform(embs)
+
 tsne = TSNE(n_components=2)
 X_tsne = tsne.fit_transform(embs)
 

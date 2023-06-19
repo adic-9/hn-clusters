@@ -1,0 +1,30 @@
+PostgreSQL reconsiders its process-based model
+Theseus DHT Protocol
+Hurl: A terrible but cute idea for a language
+Japan to open up Apple and Google app stores to competition
+Ken Thompson on the bug that exposed his compiler trojan (2021)
+How to ramp up a factory consuming a lot of energy?
+IKEA-Oriented Development
+Show HN: Python package for interfacing with ChatGPT with minimized complexity
+Show HN: My recommendation engine for Hacker News
+Database Gyms [pdf]
+Titanic tourist submersible goes missing with search under way
+Effekt: Lightweight Effect Polymorphism for Handlers (2020) [pdf]
+Debugger Ghidra Class
+Plain Text Journaling in Vim
+Display brighter-than-white color on Apple devices
+Chemists introduce a two-step process for making phosphorus compounds
+Sea Change
+Meta introduces Voicebox: state-of-the-art generative AI model for speech
+My father may be gone, but ‘our’ radio is still going
+Fibers, Oh My (2020)
+Show HN: Slint – A declarative UI toolkit for embedded and desktop
+Power companies spend millions to fight Maine’s proposed not for profit utility
+When dying patients want unproven drugs
+Are you a late bloomer in work or love? Maybe you’re right on time
+TypeScript 5.2's new keyword: 'Using'
+My First Impressions of Nix
+Sketch.systems
+A ‘lost world’ of early microbes thrived one billion years ago
+A Closer Look at LightSolver’s Laser-Based Processing Unit (LPU)
+ELO Everything
